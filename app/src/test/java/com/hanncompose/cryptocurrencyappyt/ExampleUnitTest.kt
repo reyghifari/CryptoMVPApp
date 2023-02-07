@@ -1,4 +1,4 @@
-package com.plcoding.cryptocurrencyappyt
+package com.hanncompose.cryptocurrencyappyt
 
 import org.junit.Test
 
